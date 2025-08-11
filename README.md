@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Eu sou desenvolvedor de software com foco em backend.</p>
+<p align="left">Desenvolvedor de software com foco em backend.</p>
 
 ###
 
